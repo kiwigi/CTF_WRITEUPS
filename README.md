@@ -1,7 +1,7 @@
 # b01lers CTF
-
-# Web: 
 ----
+# Web: 
+
 Welcome to Earth (100p)
 ----
 When you click on the link in the challenge description you're brought to 
