@@ -3,6 +3,7 @@
 # Web: 
 
 Welcome to Earth (100p)
+----
 When you click on the link in the challenge description you're brought to 
 http://web.ctf.b01lers.com:1000/
 Where it wants you to play an almost impossible minigame since the page keeps going to http://web.ctf.b01lers.com:1000/die/.
